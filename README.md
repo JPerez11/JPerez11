@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JPerez11
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Google Enterprise
+- 🌱 I’m currently learning Java EE
+- 💞️ I’m looking to collaborate on Pragma
 - 📫 How to reach me... I live in Ocaña, Colombia.
 
 <!---
